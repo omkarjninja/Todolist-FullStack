@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
+
+
 .App {
   text-align: center;
 }
@@ -35,4 +38,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.logo-maintext{
+  font-family: "Long Cang", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
